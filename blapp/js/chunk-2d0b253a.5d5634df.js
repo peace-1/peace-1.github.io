@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b253a"],{2446:function(n,t,c){"use strict";c.r(t);var e=function(){var n=this,t=n.$createElement,c=n._self._c||t;return c("div",{staticClass:"shucai"},[n._v(" 蔬菜 ")])},s=[],a=c("2877"),u={},i=Object(a["a"])(u,e,s,!1,null,"73c2f000",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0b253a.5d5634df.js.map
